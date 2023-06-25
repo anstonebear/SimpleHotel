@@ -1,0 +1,44 @@
+.itemlist__box{
+
+    h1{
+        padding-bottom: 30px;
+    }
+
+    ::-webkit-scrollbar{
+        width: 2px;
+    }
+
+    ::-webkit-scrollbar-track{
+        border-radius: 2px;
+        background: #E7E7E7; 
+    }
+
+    ::-webkit-scrollbar-thumb{
+        border-radius: 2px;
+        background: #41522E;
+    }
+    
+    
+
+    &-list{
+        padding: 0px;
+   
+    
+        width: 600px;
+        height: 563px;
+        overflow: auto;
+
+        
+    }
+
+    &-table{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        gap: 20px;
+        justify-content: space-between;
+        
+        
+    }
+}

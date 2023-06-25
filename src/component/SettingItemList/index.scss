@@ -1,0 +1,12 @@
+.settingItemList_box{
+     display: grid;
+        grid-template-columns: repeat(1,360px);
+    grid-template-rows: 410px;
+    
+    align-items: flex-start;
+    padding: 0px;
+    
+    
+    max-width: 500px;
+    height: 906px;
+}

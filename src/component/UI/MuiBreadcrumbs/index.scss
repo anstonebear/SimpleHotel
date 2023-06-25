@@ -1,0 +1,26 @@
+.muibreadcrumbs__box{
+    display: flex;
+    align-items: center;
+    margin-bottom: 28px;
+    
+   
+    &-crumbs{
+        font-size: 32px;
+        
+        margin-right: 8px;
+    }
+
+    &-date{
+        margin-left: auto;
+        white-space: nowrap;
+        font-family: "Roboto";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: right;
+        color: #41522e;
+        margin-top: 2px;
+    }
+
+}

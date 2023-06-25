@@ -1,0 +1,22 @@
+.authPage__box {
+  
+  &-authPage{
+    background-image:linear-gradient(to right, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.6) 100%), url(../../assets/Images/backgaund.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+  
+    
+
+    display: grid;
+    place-items: center;
+ 
+  
+    height: 100vh;
+    
+    backdrop-filter: blur(10px);
+  }
+
+}
+

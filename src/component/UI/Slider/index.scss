@@ -1,0 +1,26 @@
+.slider_box{
+    width: 600px;
+    height: 120px;
+    &-carousel{
+        cursor: grab;
+        overflow: hidden;
+        
+    }
+
+    &-inner{
+        display: flex;
+       
+    }
+
+    &-item{
+        min-width: 164px;
+        padding: 6px;
+        height: 100%;
+    }
+    &-item img{
+        
+        border-radius: 10px;
+        box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.15);
+        pointer-events: none;
+    }
+}

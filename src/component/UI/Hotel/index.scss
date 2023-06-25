@@ -1,0 +1,71 @@
+
+
+.list__box{
+   display: flex;
+   gap: 40px;
+   
+  width: 550px;
+   text-align: center;
+   align-items: center;
+
+   border-top: none;
+   border-right: none;
+   border-left: none;
+   border-bottom: 1px solid black;
+   justify-content: space-between;
+
+   padding: 10px;
+
+   
+   
+
+   &-desc{
+      display: flex;
+      gap: 24px;
+      white-space: nowrap;
+      img{
+         width: 35px;
+         height: 35px;
+      }
+
+   }
+
+   &-icon {
+      display: flex;
+      justify-content: center;
+      padding: 14px;
+      border-radius: 64px;
+      background: rgba(65, 82, 46, 0.05);
+      
+   }
+
+   &-name{
+      display: flex;
+      gap: 5px;
+      flex-direction: column;
+      
+      text-align: left;
+   }
+ 
+   &-table{
+      display: flex;
+      flex-direction: column-reverse;
+      gap: 24px;
+      
+
+      button{
+         text-align: right;
+         float: right;
+         
+      }
+   }
+
+   &-price{
+      display: flex;
+      text-align: left;
+      
+      
+      
+      
+   }
+}

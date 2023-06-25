@@ -1,0 +1,47 @@
+.options_box{
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+    
+    width: 168px;
+    height: 28px;
+
+    &-rating{
+        box-sizing: border-box;
+
+        /* Auto layout */
+        
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 4px 8px;
+        gap: 4px;
+        
+        width: 89px;
+        height: 28px;
+        
+        background: #FFFFFF;
+        border: 1px solid #E5E5E5;
+        border-radius: 4px;
+    }
+
+    &-price{
+        box-sizing: border-box;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 4px 8px;
+        gap: 4px;
+
+        width: 71px;
+        height: 28px;
+
+        background: #FFFFFF;
+        border: 1px solid #E5E5E5;
+        border-radius: 4px;
+    }
+}
