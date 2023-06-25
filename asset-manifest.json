@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SimpleHotel/static/css/main.9e1aad88.css",
+    "main.js": "/SimpleHotel/static/js/main.1d9c188a.js",
+    "static/media/backgaund.jpg": "/SimpleHotel/static/media/backgaund.308c2dfdf01560c791c2.jpg",
+    "static/media/image1.jpg": "/SimpleHotel/static/media/image1.5243dd4ced3d6943fa60.jpg",
+    "static/media/image5.jpg": "/SimpleHotel/static/media/image5.53844d40b1bf95658e47.jpg",
+    "static/media/image4.jpg": "/SimpleHotel/static/media/image4.5c3f4703c5db334830a5.jpg",
+    "static/media/image3.jpg": "/SimpleHotel/static/media/image3.a38a9e2f227e79b1f928.jpg",
+    "static/media/image2.jpg": "/SimpleHotel/static/media/image2.43579f9d39a4566ea2e5.jpg",
+    "static/media/image6.jpg": "/SimpleHotel/static/media/image6.b1df102e8aef0e07c171.jpg",
+    "static/media/house.svg": "/SimpleHotel/static/media/house.3682cba2c847e915baf56d9b575ccf97.svg",
+    "static/media/hart.svg": "/SimpleHotel/static/media/hart.f284750bb5c96ecd933105a69ac9dd88.svg",
+    "static/media/redhart.svg": "/SimpleHotel/static/media/redhart.e8af139afdf998e9f0bad8b0bf4b577d.svg",
+    "index.html": "/SimpleHotel/index.html",
+    "main.9e1aad88.css.map": "/SimpleHotel/static/css/main.9e1aad88.css.map",
+    "main.1d9c188a.js.map": "/SimpleHotel/static/js/main.1d9c188a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1aad88.css",
+    "static/js/main.1d9c188a.js"
+  ]
+}
